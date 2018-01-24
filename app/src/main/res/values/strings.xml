@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoogleMapTest</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fill_all_fields_text">Заполните все поля</string>
+    <string name="max_count_text">Больше нельзя добавить маркер</string>
+    <string name="from_address">Адрес отправки</string>
+    <string name="to_address">Адрес прибытия</string>
+    <string name="add_waypoint">Добавить промежуточную точку</string>
+    <string name="start">Старт</string>
+    <string name="reset">Сброс</string>
+    <string name="history">История</string>
+</resources>
